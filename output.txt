@@ -1,0 +1,197 @@
+
+		========WELCOME TO CASINO WORLD=======
+
+
+
+What's your Name : rock
+
+
+Enter the starting balance to play game : $100
+		======CASINO NUMBER GUESSING RULES!======
+	1. Choose a number between 1 to 10
+	2. Winner gets 10 times of the money bet
+	3. Wrong bet, and you lose the amount you bet
+
+
+
+Your current balance is $ 100
+Hey, rock, enter amount to bet : $10
+Guess any betting number between 1 & 10 :4
+Oops, better luck next time !! You lost $ 10
+
+The winning number was : 5
+
+rock, You have balance of $ 90
+
+
+-->Do you want to play again (y/n)? 1 y
+		======CASINO NUMBER GUESSING RULES!======
+	1. Choose a number between 1 to 10
+	2. Winner gets 10 times of the money bet
+	3. Wrong bet, and you lose the amount you bet
+
+
+
+Your current balance is $ 90
+Hey, rock, enter amount to bet : $10
+Guess any betting number between 1 & 10 :8
+Oops, better luck next time !! You lost $ 10
+
+The winning number was : 4
+
+rock, You have balance of $ 80
+
+
+-->Do you want to play again (y/n)? y
+		======CASINO NUMBER GUESSING RULES!======
+	1. Choose a number between 1 to 10
+	2. Winner gets 10 times of the money bet
+	3. Wrong bet, and you lose the amount you bet
+
+
+
+Your current balance is $ 80
+Hey, rock, enter amount to bet : $10
+Guess any betting number between 1 & 10 :3
+Oops, better luck next time !! You lost $ 10
+
+The winning number was : 2
+
+rock, You have balance of $ 70
+
+
+-->Do you want to play again (y/n)? 1 y
+		======CASINO NUMBER GUESSING RULES!======
+	1. Choose a number between 1 to 10
+	2. Winner gets 10 times of the money bet
+	3. Wrong bet, and you lose the amount you bet
+
+
+
+Your current balance is $ 70
+Hey, rock, enter amount to bet : $10
+Guess any betting number between 1 & 10 :9
+Oops, better luck next time !! You lost $ 10
+
+The winning number was : 8
+
+rock, You have balance of $ 60
+
+
+-->Do you want to play again (y/n)? y
+		======CASINO NUMBER GUESSING RULES!======
+	1. Choose a number between 1 to 10
+	2. Winner gets 10 times of the money bet
+	3. Wrong bet, and you lose the amount you bet
+
+
+
+Your current balance is $ 60
+Hey, rock, enter amount to bet : $10
+Guess any betting number between 1 & 10 :10
+Oops, better luck next time !! You lost $ 10
+
+The winning number was : 5
+
+rock, You have balance of $ 50
+
+
+-->Do you want to play again (y/n)? y
+		======CASINO NUMBER GUESSING RULES!======
+	1. Choose a number between 1 to 10
+	2. Winner gets 10 times of the money bet
+	3. Wrong bet, and you lose the amount you bet
+
+
+
+Your current balance is $ 50
+Hey, rock, enter amount to bet : $10
+Guess any betting number between 1 & 10 :3 2
+Oops, better luck next time !! You lost $ 10
+
+The winning number was : 7
+
+rock, You have balance of $ 40
+
+
+-->Do you want to play again (y/n)? y
+		======CASINO NUMBER GUESSING RULES!======
+	1. Choose a number between 1 to 10
+	2. Winner gets 10 times of the money bet
+	3. Wrong bet, and you lose the amount you bet
+
+
+
+Your current balance is $ 40
+Hey, rock, enter amount to bet : $10
+Guess any betting number between 1 & 10 :7
+Oops, better luck next time !! You lost $ 10
+
+The winning number was : 6
+
+rock, You have balance of $ 30
+
+
+-->Do you want to play again (y/n)? y
+		======CASINO NUMBER GUESSING RULES!======
+	1. Choose a number between 1 to 10
+	2. Winner gets 10 times of the money bet
+	3. Wrong bet, and you lose the amount you bet
+
+
+
+Your current balance is $ 30
+Hey, rock, enter amount to bet : $10
+Guess any betting number between 1 & 10 :7
+Oops, better luck next time !! You lost $ 10
+
+The winning number was : 1
+
+rock, You have balance of $ 20
+
+
+-->Do you want to play again (y/n)? y
+		======CASINO NUMBER GUESSING RULES!======
+	1. Choose a number between 1 to 10
+	2. Winner gets 10 times of the money bet
+	3. Wrong bet, and you lose the amount you bet
+
+
+
+Your current balance is $ 20
+Hey, rock, enter amount to bet : $10
+Guess any betting number between 1 & 10 :5
+
+
+You are in luck!! You have won Rs.100
+The winning number was : 5
+
+rock, You have balance of $ 120
+
+
+-->Do you want to play again (y/n)? y
+		======CASINO NUMBER GUESSING RULES!======
+	1. Choose a number between 1 to 10
+	2. Winner gets 10 times of the money bet
+	3. Wrong bet, and you lose the amount you bet
+
+
+
+Your current balance is $ 120
+Hey, rock, enter amount to bet : $10
+Guess any betting number between 1 & 10 :6
+Oops, better luck next time !! You lost $ 10
+
+The winning number was : 7
+
+rock, You have balance of $ 110
+
+
+-->Do you want to play again (y/n)? n
+
+
+
+
+
+Thanks for playing the game. Your balance is $ 110
+
